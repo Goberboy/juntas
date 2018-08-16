@@ -1,0 +1,6 @@
+Las aplicaciones web se basan en una arquitectura cliente/servidor: por un lado está el cliente (el navegador, explorador o visualizador) 
+y por otro lado el servidor (el servidor web). Existen diversas variantes de la arquitectura básica según cómo se implementen las 
+diferentes funcionalidades de la parte servidor.
+
+La Aplicación usa el servidor web Apache y el MySQL como sistema gestor de Bases de Datos. Fue desarrollado con el lenguaje de programación
+PHP tanto en el lado del Cliente como en el servidor y HTML 5 y CSS en la parte de diseño.
