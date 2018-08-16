@@ -1,4 +1,5 @@
-# juntas
+# Gestion de Juntas
+
 Sistema de informacion que almacena la informacion General de las Juntas de Accion Comunal de el Departamento de Boyaca
 
 El sistema guarda información de la juntas de las juntas de acción  comunal del Departamento, de los directivos y afiliados a cada junta; permite generar documentos  internos de cada una de ellas (Autos resolutorios por los cuales sus miembros directivos fueron elegidos) y generar certificados según el tipo de Junta que sea (Junta de Acción Comunal o  Junta de Vivienda Comunitaria. 
